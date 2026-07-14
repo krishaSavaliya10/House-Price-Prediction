@@ -3,7 +3,7 @@
 This project predicts house prices using the **Random Forest Regression** algorithm.
 
 ## Features
-- Data Preprocessing
+- Load Dataset
 - Label Encoding
 - Train-Test Split
 - Random Forest Regression
@@ -21,12 +21,3 @@ This project predicts house prices using the **Random Forest Regression** algori
 - `house_price_model.ipynb` – Jupyter Notebook
 - `house.csv` – Dataset
 - `house_price_model.pkl` – Trained Model
-
-## How to Run
-1. Install the required libraries.
-2. Open `house_price_model.ipynb`.
-3. Run all cells to train and test the model.
-
-
-
-
