@@ -24,4 +24,4 @@ This project predicts house prices using the **Random Forest Regression** algori
 - `app.py` – Streamlit web application
 
  ## Live Demo
-https://house-price-prediction-3vbxme4nh7vf4gkyjffrcz.streamlit.app/
+https://house-price-prediction-3vbxme4nh7vf4gkyjffrcz.streamlit.app
