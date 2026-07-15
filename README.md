@@ -21,3 +21,4 @@ This project predicts house prices using the **Random Forest Regression** algori
 - `house_price_model.ipynb` – Jupyter Notebook
 - `house.csv` – Dataset
 - `house_price_model.pkl` – Trained Model
+- app.py – Streamlit web application
